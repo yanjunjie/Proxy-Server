@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="proxyApp"
+  id="myeclipse.1453813333320"
+  context-root="/proxyApp"
+  j2ee-spec="6.0"
+  archive="proxyApp.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
